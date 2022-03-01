@@ -4,9 +4,9 @@
 <br>
 
 <ul>
-  Histogram
-  Filtering
-  Detector
+  Histogram <br>
+  Filtering <br>
+  Detector <br>
 </ul>
 
 
