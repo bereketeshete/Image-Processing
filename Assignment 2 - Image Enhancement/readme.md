@@ -1,4 +1,4 @@
-# UofM, Image Processing, Spring 2022 <br> Assignment 2 - Image Enhancemnt 
+# UofM, Image Processing, Spring 2022 <br> Assignment 2 - Image Enhancement
 
 <br>
 <br>
