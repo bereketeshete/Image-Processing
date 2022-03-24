@@ -1,5 +1,6 @@
 # Image-Processing
 
-Instructor: Dr. Yeasin <br>
-Textbook: Image processing, Gonzalez, 2nd edition <br>
-Spring 2022 <br>
+Instructor: Dr. Mohammed Yeasin <br>
+Textbook: Digital Image processing, Gonzalez, 2nd edition <br>
+University of Memphis, Spring 2022 <br>
+
