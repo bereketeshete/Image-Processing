@@ -1,4 +1,4 @@
-# Image-Compression using MATLAB
+# Basic Image-Compression using MATLAB
 
 Author : Bereket Kebede <br>
 Coressponding email: bkebede@memphis.edu  <br>
