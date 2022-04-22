@@ -2,7 +2,7 @@
 
 Basic Implementation of JPEG Compression <br>
 ~~~
-Run test.m file to compress an image to JPEG <br>
+Run test.m file to compress an image to JPEG 
 ~~~
 Each of the pipeline matlab functions are commented inside. <br>
 
