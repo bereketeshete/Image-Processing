@@ -3,6 +3,9 @@
 Author : Bereket Kebede <br>
 Coressponding email: bkebede@memphis.edu  <br>
 Ref: Gonzalez Image processing, 4th edition <br>
+EECE-7214 Image Processing, University of Memphis, Spring 2022 <br>
+Assignment 4 - Jpeg Image Compression due April 21, 2022 <br>
+
 
 Basic Implementation of JPEG Compression <br>
 ~~~
