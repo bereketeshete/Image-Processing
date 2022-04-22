@@ -2,6 +2,7 @@
 
 Author : Bereket Kebede <br>
 Coressponding email: bkebede@memphis.edu  <br>
+Ref: Gonzalez Image processing, 4th edition <br>
 
 Basic Implementation of JPEG Compression <br>
 ~~~
