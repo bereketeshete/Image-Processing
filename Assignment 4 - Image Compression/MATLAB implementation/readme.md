@@ -9,7 +9,6 @@ Run test.m file to compress an image to JPEG
 ~~~
 Each of the pipeline matlab functions are commented inside. <br>
 
-----
 **Question** <br>
 1. Using your fav. Programming language (Matlab, Python etc.) simulate the “Basic J-PEG <br>
 coding” to compress and uncompress images. Hint: Follow block diagram in the slide #30. <br><br>
