@@ -27,3 +27,4 @@ integer input; QUALITY determines the amount of information that <br>
 is lost and compression achieved. Y is an encoding structure <br>
 containing fields: <br>
 
+
