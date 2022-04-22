@@ -6,9 +6,15 @@ Ref: Gonzalez Image processing, 4th edition <br>
 
 Basic Implementation of JPEG Compression <br>
 ~~~
-Run test.m file to compress an image to JPEG 
+jpeg_image  = im2jpeg(rgb2gray(imread('einestien.png')));
 ~~~
-Each of the pipeline matlab functions are commented inside. <br>
+or Run test.m file to compress 'einestien.png' to jpeg and display it with <br>
+next to the original image for comparison.
+
+Each of the pipeline matlab functions are commented inside for explanation <br>
+of jpeg compression process. <br>
+
+test.m compress 
 
 **Question** <br>
 1. Using your fav. Programming language (Matlab, Python etc.) simulate the “Basic J-PEG <br>
