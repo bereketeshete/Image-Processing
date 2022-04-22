@@ -14,8 +14,6 @@ next to the original image for comparison.
 Each of the pipeline matlab functions are commented inside for explanation <br>
 of jpeg compression process. <br>
 
-test.m compress 
-
 **Question** <br>
 1. Using your fav. Programming language (Matlab, Python etc.) simulate the “Basic J-PEG <br>
 coding” to compress and uncompress images. Hint: Follow block diagram in the slide #30. <br><br>
