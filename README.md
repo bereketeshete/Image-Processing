@@ -9,5 +9,7 @@ University of Memphis, Spring 2022 <br>
 - Image Scaling
 - Image Enhancement
 - Image Fourier Transform
+- Image Compression
+- Camera Calibration
 
 
